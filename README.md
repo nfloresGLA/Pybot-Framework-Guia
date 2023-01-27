@@ -83,4 +83,24 @@ al sistema. Tambien interpreta imagenes y las compara.
 
 > Cuando termine de instalar click en "Close" y listo.
 
+---
+
 ## 2) <u> __Variables de entorno__ </u>
+
+###  * _Despues de instalar Python <u>correctamente_</u>.
+
+1. Ingresar en:
+
+![image](https://user-images.githubusercontent.com/120741890/214583124-16506e07-cb8b-42b4-b333-b9e3f63fad25.png)
+
+2. Doble __click__ sobre "__Path__" de "Variables del sistema"
+
+![image](https://user-images.githubusercontent.com/120741890/214583684-4445f190-54d4-4f5b-8c16-3a59bea9671f.png)
+
+3. Verificar de tener dentro del __path__ estos valores.
+
+* En caso de no tener alguno agregarlos.
+
+![image](https://user-images.githubusercontent.com/120741890/214864844-c5803bd9-eaaa-45a6-ba7f-94ae2ae6c3d9.png)
+
+---
