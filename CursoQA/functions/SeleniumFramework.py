@@ -93,6 +93,7 @@ class Functions(GenericFunctions, Parameters):
         options.add_argument("--disable-extensions")
         options.add_argument("--dns-prefetch-disable")
         options.add_argument("--verbose")
+        options.add_argument("--remote-debugging-port=9222")
         options.add_argument("--disable-popup-blocking")
         #options.add_argument("--disable-extensions")
         options.add_argument("--proxy-server='direct://'")
