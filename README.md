@@ -104,3 +104,15 @@ al sistema. Tambien interpreta imagenes y las compara.
 ![image](https://user-images.githubusercontent.com/120741890/214864844-c5803bd9-eaaa-45a6-ba7f-94ae2ae6c3d9.png)
 
 ---
+
+## 3) <u> __Instalacion de PyCharm__ </u>
+
+<p> Pagina de descarga de
+    <a 
+        href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC" 
+        target="_blank">
+        Pycharm-community
+    </a>
+</p>
+
+> Instalacion tipica, nada particular que comentar.
