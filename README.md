@@ -116,3 +116,7 @@ al sistema. Tambien interpreta imagenes y las compara.
 </p>
 
 > Instalacion tipica, nada particular que comentar.
+
+## 4) <u> __Carpeta CursoQA__ </u>
+
+> Descargar la carpeta CursoQA de este repositorio.
